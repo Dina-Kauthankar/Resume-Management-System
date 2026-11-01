@@ -309,7 +309,7 @@ Ensure you have the following installed on your host system:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Resume-Management-System.git
+   git clone https://github.com/Dina-Kauthankar/Resume-Management-System.git
    cd Resume-Management-System/resume
    ```
 
